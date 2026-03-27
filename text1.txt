@@ -1,1 +1,1 @@
-created txet1.txt file
+created text1.txt file
